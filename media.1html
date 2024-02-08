@@ -8,6 +8,8 @@
   <link rel="stylesheet" href="styles/style.css">
   <link rel="stylesheet" href="styles/media.css">
   <link rel="stylesheet" href="node_modules/@splidejs/splide/dist/css/splide.min.css">
+    <meta http-equiv="refresh" content="180;url=index.html">
+
 </head>
 
 <body>
